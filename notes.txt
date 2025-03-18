@@ -1,0 +1,3 @@
+Had trouble with tokenizer
+gpt2 is not a QA model
+you cant make a general dataset cleaner and tokenizer, different datasets have different fields and contents
