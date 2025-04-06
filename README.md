@@ -3,7 +3,7 @@
 *(Create and run in a venv if you want to separate dependencies)*
 
 ```bash
-cd GPT-trainer-GUI
+cd GPT-trainer-GUI-main
 pip install -r requirements.txt
 python GUI.py
 ```
