@@ -1,3 +1,5 @@
+<img width="1872" height="1039" alt="image" src="https://github.com/user-attachments/assets/db8fe0f9-c102-4630-9deb-a25cbb53ad6b" />
+
 **Instructions**
 
 *(Create and run in a venv if you want to separate dependencies)*
