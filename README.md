@@ -5,6 +5,17 @@
 ```bash
 cd GPT-trainer-GUI
 pip install -r requirements.txt
+```
+If on Linux (replace dnf with your pkg manager)
+```
+sudo dnf install python3-tkinter
+```
+If on windows
+```
+pip install tk
+```
+Run
+```
 python GUI.py
 ```
 
